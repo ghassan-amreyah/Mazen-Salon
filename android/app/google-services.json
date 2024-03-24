@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25566942981",
+    "project_id": "mazen-salon",
+    "storage_bucket": "mazen-salon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25566942981:android:13bd4cffe64d5377fb896c",
+        "android_client_info": {
+          "package_name": "com.example.mazen_salon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8xYLUgYCEjShALaeAR9xVfXwm0bMv5m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
